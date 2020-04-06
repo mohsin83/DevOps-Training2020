@@ -1,1 +1,2 @@
-MY GIT COMMIT FROM SCRIPT
+My first file
+Develop 1
